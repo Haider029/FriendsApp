@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479611915502",
+    "firebase_url": "https://lastattempt-f81bf.firebaseio.com",
+    "project_id": "lastattempt-f81bf",
+    "storage_bucket": "lastattempt-f81bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479611915502:android:cc160095a38640c13ef7ff",
+        "android_client_info": {
+          "package_name": "com.example.lastattempt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479611915502-2f0r5tk24mf0v5cc6cg6u52ivpdns97n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lastattempt",
+            "certificate_hash": "76cf087082c5d84448671c3019fb20c4e91b960b"
+          }
+        },
+        {
+          "client_id": "479611915502-h4i3srbpusg5eb1tm2e8at36ibqoqh3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0SIJSuMrdIh8SsszEF4mtoHsU9-iab4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479611915502-h4i3srbpusg5eb1tm2e8at36ibqoqh3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
